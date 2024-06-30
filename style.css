@@ -4213,7 +4213,7 @@ position: relative;
 }
 
 .section-nomargin{
-	margin-bottom: -100px;
+	margin-bottom: 0px;
 }
 
 .img-center {
